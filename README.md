@@ -10,9 +10,8 @@ Aulas de Programação Web II com os Professores João Siles e Ricardo Palhares.
 <summary>
 PASSO A PASSO PARA CRIAÇÃO DE UM PROJETO LARAVEL
 </summary>
-</details>
-
 <br>
+  
 <strong>1º Passo: </strong>
 
 Execute um dos comandos abaixo que seja de acordo com o seu Sistema operacional, para intalar o PHP, Composer e o instalador do Laravel.
@@ -21,3 +20,14 @@ macOs:
 ```
 /bin/bash -c "$(curl -fsSL https://php.new/install/mac/8.4)"
 ```
+<br>
+
+Windows PowerShell
+```
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://php.new/install/windows/8.4'))
+```
+<br>
+
+
+</details>
+
