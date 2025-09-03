@@ -14,7 +14,7 @@ PASSO A PASSO PARA CRIAÇÃO DE UM PROJETO LARAVEL
   
 <strong>1º Passo:</strong>
 
-Execute um dos comandos abaixo que seja de acordo com o seu Sistema operacional, para intalar o PHP, Composer e o instalador do Laravel.
+Execute um dos comandos abaixo que seja de acordo com o seu Sistema operacional, para instalar o PHP, Composer e o instalador do Laravel.
 
 macOs:
 ```
