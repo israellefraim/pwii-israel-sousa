@@ -12,7 +12,7 @@ PASSO A PASSO PARA CRIAÇÃO DE UM PROJETO LARAVEL
 </summary>
 <br>
   
-<strong>1º Passo:</strong>
+<strong>✔️ 1º Passo:</strong>
 
 Execute um dos comandos abaixo que seja de acordo com o seu Sistema operacional, para instalar o PHP, Composer e o instalador do Laravel.
 
@@ -35,7 +35,7 @@ Linux:
 
 <br>
 
-<strong>2º Passo:</strong>
+<strong>✔️ 2º Passo:</strong>
 
 Abra o `cmd` e acesse o caminho que está o repositório em que será criado o projeto Laravel.
 
@@ -50,7 +50,7 @@ Após isso, crie o novo projeto, com um nome que será o nome da pasta/projeto:
 laravel new nome-do-projeto
 ```
 
-<strong>3º Passo:</strong>
+<strong>✔️ 3º Passo:</strong>
 
 
 </details>
