@@ -49,6 +49,7 @@ Após isso, crie o novo projeto, com um nome que será o nome da pasta/projeto:
 ```
 laravel new nome-do-projeto
 ```
+<br>
 
 <strong>✔️ 3º Passo:</strong>
 
