@@ -40,19 +40,33 @@ Linux:
 Abra o `cmd` e acesse o caminho que está o repositório em que será criado o projeto Laravel.
 
 Ex.:
-```
+```cmd
 cd C:\xampp\htdocs\pwii-israel-sousa
 ```
 
 Após isso, crie o novo projeto, com um nome que será o nome da pasta/projeto:
 
-```
+```cmd
 laravel new nome-do-projeto
 ```
 <br>
 
 <strong>✔️ 3º Passo:</strong>
 
+- Para a 1ª pergunta quanto a instalação do kit, responda `none`.
+- Para a 2º pergunta quanto a qual será o banco de dados usado, responda `sqlite`.
+- Ao ser perguntado se deseja executar o `npm install` e o `npm run build`, responda `yes`.
 
+<br>
+
+<strong>✔️ 4º Passo:</strong>
+
+Com o projeto criado, digitar `cd teste` e depois `composer run dev`
+
+<br>
+
+<strong>✔️ 5º Passo:</strong>
+
+Em seguida, só segurar `Ctrl` e clicar no link ao lado da frase "INFO  Server running on..."
 </details>
 
