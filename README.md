@@ -8,7 +8,9 @@ Aulas de Programação Web II com os Professores João Siles e Ricardo Palhares.
 ## 📚 Documentação
 <details>
 <summary>
-<strong>✔️ PASSO A PASSO PARA CRIAÇÃO DE UM PROJETO LARAVEL</strong>
+  
+### ✔️ **PASSO A PASSO PARA CRIAÇÃO DE UM PROJETO LARAVEL**
+
 </summary>
   
 ### <strong>1º Passo:</strong>
@@ -77,11 +79,11 @@ composer run dev
 Em seguida, só segurar `Ctrl` e clicar no link ao lado da frase "INFO  Server running on..."
 </details>
 
-<br>
-
 <details>
 <summary>
-<strong>✔️ PASSO A PASSO PARA CONFIGURAÇÃO DE UM PROJETO LARAVEL</strong>
+  
+### ✔️ **PASSO A PASSO PARA CONFIGURAÇÃO DE UM PROJETO LARAVEL**
+
 </summary>
 <br>
 
